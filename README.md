@@ -6,6 +6,7 @@ Heroes of Pymoli Findings:
 -The bulk of users and purchases fall into the 20-24 age range. 
 
 
+
 PyCitySchools Findings:
 -The top performing schools are charter schools, while the bottom performing school are district schools.
 -While district schools spend more money on average per student, they don't have as high of reading and math scores.
